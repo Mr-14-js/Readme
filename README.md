@@ -34,7 +34,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mr-14-js&show_icons=true&locale=en" alt="Readme" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-14-jsn&" alt="Mr 14" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-14-js&" alt="Mr 14" /></p>
 
 <!-- It has no copyrights,just take and dont forget to star
  
