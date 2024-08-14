@@ -1,6 +1,6 @@
-<h1 align="center">Ni Hao, This is the NCT-Association</h1>
-<h3 align="center">  Passionate frontend global developers</h3>
-- We look to help those who were not given the chance to do what they loved (that is coding),we do not know much about coding, but we can help you get A whatsapp bot,or even create one.
+<h1 align="center">Ni Hao, This is the Mr 14</h1>
+<h3 align="center">  Passionate frontend global developer</h3>
+- I look to help those who were not given the chance to do what they loved (that is coding),I do not know much about coding, but I can help you get A whatsapp bot,or even create one.
 
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.30fuPl3x9KvMB2ZYW0k7owHaEK?pid=ImgDet&rs=1">
 
@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NCT-Association" alt="NCT-Association" /></a> </p>
 
-- 🌱 I’m currently learning **python,py**
+- 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **Android, MEARN**
+- 💬 Ask me about **whatsappbots**
 
 - 📫 How to reach me **nocturnomd@gmail.com**
 
@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/kyle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kyle" height="30" width="40" /></a>
-<a href="https://instagram.com/__kyle.cant.rn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__kyle.cant.rn_" height="30" width="40" /></a>
+<a href="https://instagram.com/why_.kylememes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="why_.kylememes" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,15 +30,15 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/later"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="later" /></a><a href="https://ko-fi.com/later"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="later" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NCT-Association&show_icons=true&locale=en&layout=compact" alt="NCT-Association" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mr-14-js&show_icons=true&locale=en&layout=compact" alt="Mr 14" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NCT-Association&show_icons=true&locale=en" alt="mimibotto2" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mr-14-js&show_icons=true&locale=en" alt="Readme" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NCT-Association&" alt="NCT-Association" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-14-jsn&" alt="Mr 14" /></p>
 
 <!-- It has no copyrights,just take and dont forget to star
  
 <!---
-NCT-Association/mimibotto2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mr-14-js/Readme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
